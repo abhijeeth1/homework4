@@ -1,0 +1,45 @@
+
+.wraper{
+    width:600px;
+    background-color:#eee;
+}
+.heading{
+    height: 40px;
+    background-color:red;
+}
+.navigation{
+    height: 40px;
+    background-color: gray;
+}
+.content{
+    min-height:400px;
+    background-color: #ddd;
+    width: 50px;
+    float: left;
+}
+.sidebar{
+    width:500px;
+    background-color: #ddd;
+   
+    height: 4oopx;
+}
+.footer{
+    clear:both;
+    background-color: yellow;
+    height: 40px;
+}
+.file {
+    display: inline-block;
+}
+.edit{
+    display: inline-block;
+}
+.view{
+    display: inline-block;
+}
+.tool{
+    display: inline-block;
+}
+.help{
+    display: inline-block;
+}
